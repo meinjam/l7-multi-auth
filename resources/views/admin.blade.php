@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <h1>User Homepage</h1>
+            <h1>Admin Homepage</h1>
         </div>
     </div>
 </div>
